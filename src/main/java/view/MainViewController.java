@@ -1,12 +1,13 @@
 package view;
 
-import Controller.Controller;
-import Model.ColumnParsingTable;
-import Model.LevelSort;
-import Model.SeriesSort;
-import Model.SortingMethod;
+import controller.Controller;
+import model.ColumnParsingTable;
+import model.LevelSort;
+import model.SeriesSort;
+import model.SortingMethod;
 import java.beans.PropertyChangeEvent;
 import java.beans.PropertyChangeListener;
+import java.io.IOException;
 import java.net.URL;
 import java.util.List;
 import java.util.ResourceBundle;
@@ -14,17 +15,23 @@ import javafx.application.Platform;
 import javafx.collections.FXCollections;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
+import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
 import javafx.scene.chart.LineChart;
 import javafx.scene.chart.XYChart;
 import javafx.scene.control.ChoiceBox;
 import javafx.scene.control.Label;
+import javafx.scene.control.MenuItem;
 import javafx.scene.control.ProgressBar;
 import javafx.scene.control.Spinner;
 import javafx.scene.control.SpinnerValueFactory;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
+import javafx.stage.Stage;
+import model.Model;
 
 public class MainViewController implements Initializable, PropertyChangeListener {
 
@@ -65,6 +72,9 @@ public class MainViewController implements Initializable, PropertyChangeListener
 
     @FXML
     private LineChart<Integer, Long> chart;
+    
+    @FXML
+    private MenuItem logsMenu;
 
     @FXML
     private void handleButtonAction(ActionEvent event) {
@@ -80,6 +90,19 @@ public class MainViewController implements Initializable, PropertyChangeListener
         //System.out.println("Ajout d'une colonne dans la table");
 //        Student std = new Student(Integer.parseInt(num.getText()), firstname.getText(),lastname.getText());
 //        table.getItems().add(std);
+    }
+    
+    @FXML
+    private void handleLogs(ActionEvent event) throws IOException{
+        Stage stage = new Stage();
+        FXMLLoader loader = new FXMLLoader(getClass().getResource("/fxml/logSort.fxml"));
+        Parent root = loader.load();
+        
+        LogViewSortController lsc = loader.getController();
+        Scene scene = new Scene(root);
+        
+        stage.setScene(scene);
+        stage.show();
     }
 
     public MainViewController() {

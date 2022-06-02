@@ -2,11 +2,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package Controller;
+package controller;
 
-import Model.LevelSort;
-import Model.Model;
-import Model.SortingMethod;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import model.LevelSort;
+import model.Model;
+import model.SortingMethod;
+import model.repository.exception.RepositoryException;
 import view.MainViewController;
 
 /**
@@ -23,6 +26,10 @@ public class Controller {
     }
     
     public void play(int numberThread, SortingMethod method, LevelSort level){
-        model.launchThread(numberThread, method, level);
+        try {
+            model.launchThread(numberThread, method, level);
+        } catch (RepositoryException ex) {
+            Logger.getLogger(Controller.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }
 }

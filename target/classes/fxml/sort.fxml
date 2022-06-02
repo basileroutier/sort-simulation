@@ -23,7 +23,7 @@
 <?import javafx.scene.paint.Color?>
 <?import javafx.scene.text.Font?>
 
-<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.MainViewController">
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.MainViewController">
    <children>
       <MenuBar>
          <menus>
@@ -37,6 +37,11 @@
                <items>
                   <MenuItem fx:id="aboutItem" mnemonicParsing="false" text="About" />
                </items>
+            </Menu>
+            <Menu mnemonicParsing="false" text="View">
+              <items>
+                <MenuItem fx:id="logsMenu" mnemonicParsing="false" onAction="#handleLogs" text="Logs" />
+              </items>
             </Menu>
          </menus>
       </MenuBar>
@@ -101,7 +106,7 @@
                   <Font size="11.0" fx:id="x3" />
                </font>
                <textFill>
-                  <Color blue="0.625" green="0.625" red="0.625" fx:id="x4" />
+                  <Color red="0.625" green="0.625" blue="0.625" fx:id="x4" />
                </textFill>
             </Label>
             <Pane prefHeight="-1.0" prefWidth="-1.0" HBox.hgrow="ALWAYS" />
