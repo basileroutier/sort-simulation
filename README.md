@@ -10,7 +10,7 @@ What does it used.
 
 ## :notebook_with_decorative_cover: Menu
 
-* [Overview](#overview)
+* [Overview](#overview) :page_facing_up:
 * [Install](#install) :trident:
     * [Installation](#installation)
     * [Usage](#usage)
