@@ -53,7 +53,7 @@ Move the file in your preferable path.
 Let's create together. If you have some idea, trouble, or anything else ? Just open an [issue](https://github.com/basileroutier/title/issues/new/choose)
 ![Cat idea](https://tenor.com/bSnt8.gif)
 
-![Smile cat]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://c.tenor.com/k-tV1c5bCCkAAAAd/cat-smile-happy-cat.gif))
+![Smile cat](https://c.tenor.com/k-tV1c5bCCkAAAAd/cat-smile-happy-cat.gif)
 
 ## License
 
