@@ -14,7 +14,7 @@ What does it used.
 * [Install](#install) :trident:
     * [Installation](#installation)
     * [Usage](#usage)
-* [Example](#example-utilisation)
+* [Example](#example-utilisation) :mag_right:
 * [Idea](#idea) :bulb:
 * [License](#license) :mortar_board:
 
