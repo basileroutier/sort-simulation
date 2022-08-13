@@ -40,8 +40,7 @@ Using the command :
 $ git clone git@github.com:basileroutier/esi_lecture_odoo.git
 ```
 
-Everything should work now <img src="https://tenor.com/5Rer.gif" width="40" height="40" />
-
+Everything should work now ![Cat idea](https://tenor.com/5Rer.gif)
 
 ### Usage
 ##### Running the app
@@ -52,8 +51,7 @@ Move the file in your preferable path.
 
 ## Idea
 Let's create together. If you have some idea, trouble, or anything else ? Just open an [issue](https://github.com/basileroutier/title/issues/new/choose)
-<img src="https://tenor.com/bSnt8.gif" width="40" height="40" />
-
+![Cat idea](https://tenor.com/bSnt8.gif)
 ## License
 
 Title... is released under the MIT License.
