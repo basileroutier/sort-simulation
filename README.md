@@ -12,8 +12,8 @@ What does it used.
 
 ## :notebook_with_decorative_cover: Menu
 
-* [Overview](#overview) :page_facing_up:
-* [Install](#install) :trident:
+* [Overview :page_facing_up:](#overview)
+* [Install :trident:](#install) 
     * [Installation](#installation)
     * [Usage](#usage)
 * [Example](#example-utilisation) :mag_right:
