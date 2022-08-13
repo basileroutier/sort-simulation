@@ -52,6 +52,9 @@ Move the file in your preferable path.
 ## Idea
 Let's create together. If you have some idea, trouble, or anything else ? Just open an [issue](https://github.com/basileroutier/title/issues/new/choose)
 ![Cat idea](https://tenor.com/bSnt8.gif)
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 ## License
 
 Title... is released under the MIT License.
