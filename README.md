@@ -40,7 +40,7 @@ Using the command :
 $ git clone git@github.com:basileroutier/esi_lecture_odoo.git
 ```
 
-Everything should work now ![Cat idea](https://tenor.com/5Rer.gif)
+Everything should work now ![Cat idea](https://c.tenor.com/Uowt3oHKCP4AAAAC/marc77-cat-at-work.gif =40x40)
 
 ### Usage
 ##### Running the app
@@ -51,9 +51,9 @@ Move the file in your preferable path.
 
 ## Idea
 Let's create together. If you have some idea, trouble, or anything else ? Just open an [issue](https://github.com/basileroutier/title/issues/new/choose)
-![Cat idea](https://tenor.com/bSnt8.gif)
 
-![Smile cat](https://c.tenor.com/k-tV1c5bCCkAAAAd/cat-smile-happy-cat.gif)
+
+![Smile cat](https://c.tenor.com/k-tV1c5bCCkAAAAd/cat-smile-happy-cat.gif =40x40)
 
 ## License
 
