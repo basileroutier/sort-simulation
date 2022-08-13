@@ -1,6 +1,8 @@
 # Sort simulation
 ![Logo](https://via.placeholder.com/1200x120)
+
 [![Build Status](https://travis-ci.org/walternascimentobarroso/walternascimentobarroso.github.io.svg?branch=master)](https://travis-ci.org/walternascimentobarroso/walternascimentobarroso.github.io)
+
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 
 Something about the project and what the project did.
@@ -35,12 +37,14 @@ $ git clone https://github.com/basileroutier/esi_lecture_odoo.git
 ```
 
 ###### With a ssh key:
+
 Using the command :
 ```
 $ git clone git@github.com:basileroutier/esi_lecture_odoo.git
 ```
 
-Everything should work now) <img src="https://c.tenor.com/Uowt3oHKCP4AAAAC/marc77-cat-at-work.gif" width="70" height="70" />
+Everything should work now
+<img src="https://c.tenor.com/Uowt3oHKCP4AAAAC/marc77-cat-at-work.gif" width="90" height="90" />
 
 ### Usage
 ##### Running the app
@@ -53,7 +57,7 @@ Move the file in your preferable path.
 Let's create together. If you have some idea, trouble, or anything else ? Just open an [issue](https://github.com/basileroutier/title/issues/new/choose)
 
 
-<img src="https://c.tenor.com/k-tV1c5bCCkAAAAd/cat-smile-happy-cat.gif" width="70" height="70" />
+<img src="https://c.tenor.com/k-tV1c5bCCkAAAAd/cat-smile-happy-cat.gif" width="90" height="90" />
 
 ## License
 
