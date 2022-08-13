@@ -40,8 +40,7 @@ Using the command :
 $ git clone git@github.com:basileroutier/esi_lecture_odoo.git
 ```
 
-Everything should work now)
-<img src="https://c.tenor.com/Uowt3oHKCP4AAAAC/marc77-cat-at-work.gif" width="40" height="40" />
+Everything should work now) <img src="https://c.tenor.com/Uowt3oHKCP4AAAAC/marc77-cat-at-work.gif" width="70" height="70" />
 
 ### Usage
 ##### Running the app
@@ -54,7 +53,7 @@ Move the file in your preferable path.
 Let's create together. If you have some idea, trouble, or anything else ? Just open an [issue](https://github.com/basileroutier/title/issues/new/choose)
 
 
-<img src="https://c.tenor.com/k-tV1c5bCCkAAAAd/cat-smile-happy-cat.gif" width="40" height="40" />
+<img src="https://c.tenor.com/k-tV1c5bCCkAAAAd/cat-smile-happy-cat.gif" width="70" height="70" />
 
 ## License
 
