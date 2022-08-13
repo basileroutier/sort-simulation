@@ -12,13 +12,13 @@ What does it used.
 
 ## :notebook_with_decorative_cover: Menu
 
-* [Overview :page_facing_up:](#overview)
-* [Install :trident:](#install) 
+* [Overview](#page_facing_up-overview) :page_facing_up:
+* [Install](#trident-install) :trident:
     * [Installation](#installation)
     * [Usage](#usage)
-* [Example](#example-utilisation) :mag_right:
-* [Idea](#idea) :bulb:
-* [License](#license) :mortar_board:
+* [Example](#mag_right-example-utilisation) :mag_right:
+* [Idea](#bulb-idea) :bulb:
+* [License](#mortar_board-license) :mortar_board:
 
 ## :page_facing_up: Overview
  A project overview is a detailed description of a project's goals and objectives, the steps to achieve these goals, and the expected outcomes.
