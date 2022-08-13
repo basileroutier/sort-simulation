@@ -1,9 +1,11 @@
 # Sort simulation
 ![Logo](https://via.placeholder.com/1200x120)
 
+
 [![Build Status](https://travis-ci.org/walternascimentobarroso/walternascimentobarroso.github.io.svg?branch=master)](https://travis-ci.org/walternascimentobarroso/walternascimentobarroso.github.io)
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 
 Something about the project and what the project did.
 What does it used.
@@ -24,6 +26,7 @@ What does it used.
 
 ## :trident: Install
 
+___
 ### Installation
 ___
 Title requires somehting to be launch
@@ -42,11 +45,10 @@ $ git clone https://github.com/basileroutier/esi_lecture_odoo.git
 $ git clone git@github.com:basileroutier/esi_lecture_odoo.git
 ```
 
-Everything should be download now
-<img src="https://c.tenor.com/Uowt3oHKCP4AAAAC/marc77-cat-at-work.gif" width="90" height="90" />
-
-
-
+Everything should be download now  <img src="https://c.tenor.com/Uowt3oHKCP4AAAAC/marc77-cat-at-work.gif" width="90" height="90" />
+<br/>
+<br/>
+___
 ### Usage
 ___
 ##### Running the app
